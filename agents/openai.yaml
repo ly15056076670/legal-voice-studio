@@ -1,0 +1,4 @@
+interface:
+  display_name: "律师文风工坊"
+  short_description: "从律师审定稿学习写法，生成可安装、可更新的团队文风 Skill"
+  default_prompt: "使用 $legal-voice-studio 从我指定的审定稿及过程稿生成团队文风 Skill，先展示写法规则和试写，确认后导出。"
